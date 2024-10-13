@@ -8,38 +8,42 @@
     - Data dan informasi dapat diakses dengan mudah dan cepat, memudahkan pengambilan keputusan
 2. Peningkatan transparansi
     - Informasi publik menjadi lebih mudah diakses, meningkatkan transparansi dan akuntabilitas pemerintah.
-    - Masyarakat dapat lebih mudah berpartisipasi dalam proses pengambilan keputusan melalui platform digital.
 3. Peningkatan pelayanan
     - Banyak layanan publik kini dapat diakses secara online, mempermudah masyarakat mengurus berbagai keperluan.
     - Permintaan dan keluhan masyarakat dapat ditangani lebih cepat dan efisien.
-- Peningkatan partisipasi publik
-  logseq.order-list-type:: number
-  * Teknologi seperti media sosial memungkinkan masyarakat untuk lebih aktif terlibat dalam proses pengambilan keputusan dan memberi umpan balik langsung kepada pemerintah
-- Keterhubungan antar lembaga
-  logseq.order-list-type:: number
-  * Teknologi memungkinkan koordinasi yang lebih baik antar lembaga pemerintah, yang mendukung kolaborasi dan integrasi layanan
-- Bahan kebijakan
-  logseq.order-list-type:: number
-  * Organisasi publik dapat memanfaatkan data besar untuk analisis yang lebih baik, yang membantu dalam perencanaan dan pengambilan keputusan berbasis data yang terkumpul.
+4. Peningkatan partisipasi publik
+    - Teknologi seperti media sosial memungkinkan masyarakat untuk lebih aktif terlibat dalam proses pengambilan keputusan dan memberi umpan balik langsung kepada pemerintah
+5. Keterhubungan antar lembaga
+    - Teknologi memungkinkan koordinasi yang lebih baik antar lembaga pemerintah, yang mendukung kolaborasi dan integrasi layanan
+4. Bahan kebijakan
+    - Organisasi publik dapat memanfaatkan data besar untuk analisis yang lebih baik, yang membantu dalam perencanaan dan pengambilan keputusan berbasis data yang terkumpul.
+
+#### Dampak Negatif TI terhadap organisasi
+1. Kesenjangan digital
+    - Tidak semua masyarakat memiliki akses yang sama terhadap teknologi, menciptakan kesenjangan digital.
+
+2. Ancaman keamanan siber
+    - Sistem informasi pemerintah rentan terhadap serangan siber, yang dapat menyebabkan kebocoran data dan gangguan layanan.
+
+3. Biaya operasional dan perawatan
+    - Implementasi dan pemeliharaan sistem informasi membutuhkan investasi yang besar.
 -
-- #### Dampak Negatif TI terhadap organisasi
-- Kesenjangan digital
-  logseq.order-list-type:: number
-- Ancaman keamanan siber
-  logseq.order-list-type:: number
-- Biaya operasional dan perawatan
-  logseq.order-list-type:: number
--
-- #### Kendala (Tantangan)
-- Infrastruktur: Membutuhkan infrastruktur yang memadai untuk mendukung teknologi informasi.
-  logseq.order-list-type:: number
-- SDM: Membutuhkan sumber daya manusia yang kompeten untuk mengelola dan mengembangkan sistem.
-  logseq.order-list-type:: number
-- Kebijakan: Perlu adanya kebijakan yang mendukung pengembangan dan pemanfaatan teknologi informasi.
-  logseq.order-list-type:: number
-- #### Peluang
-  * Kemitraan: Memungkinkan kolaborasi dengan sektor swasta dan masyarakat.
--
-- ## Peranan SI bagi masyarakat
-- ## Sistem informasi yang digunakan dalam pengelolaan keuangan negara
--
+#### Kendala (Tantangan)
+1. Infrastruktur
+    - Membutuhkan infrastruktur yang memadai untuk mendukung teknologi informasi.
+
+2. SDM
+    - Membutuhkan sumber daya manusia yang kompeten untuk mengelola dan mengembangkan sistem.
+
+3. Kebijakan baru
+    - Perlu adanya kebijakan yang mendukung pengembangan dan pemanfaatan teknologi informasi.
+
+#### Peluang
+Kemitraan
+    - Memungkinkan kolaborasi dengan sektor swasta dan masyarakat.
+
+
+## Peranan SI bagi masyarakat
+
+
+## Sistem informasi yang digunakan dalam pengelolaan keuangan negara
