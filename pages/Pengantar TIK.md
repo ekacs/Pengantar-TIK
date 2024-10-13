@@ -3,7 +3,7 @@
 - ## Dampak TI terhadap organisasi
 - ### Dampak TI telah merevolusi atau bahkan men-disrupsi cara organisasi publik dan pemerintahan beroperasi. Dampaknya begitu luas, mulai dari peningkatan efisiensi hingga perubahan mendasar dalam cara pemerintah berinteraksi dengan masyarakat.
 - #### Dampak Positif TI terhadap organisasi
-- Peningkatan efisiensi kerja
+  1. Peningkatan efisiensi kerja
   logseq.order-list-type:: number
   * Banyak tugas administratif yang dapat diotomatisasi, mengurangi kesalahan manusia dan mempercepat proses kerja
   * Data dan informasi dapat diakses dengan mudah dan cepat, memudahkan pengambilan keputusan
